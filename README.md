@@ -423,3 +423,4 @@ DROP TABLE Movies;
 ```sql
 DROP TABLE BoxOffice;
 ```
+![](./assets/Completed.png)
